@@ -1,0 +1,14 @@
+Eyepacs, Aptos, Messidor Diabetic Retinopathy (EAMDR)
+143,669 Total Images (0.80:0.10:0.10)
+https://www.kaggle.com/datasets/ascanipek/eyepacs-aptos-messidor-diabetic-retinopathy?resource=download-directory
+
+
+RMfiD
+1. Original color fundus images (3200 images divided into a training set (1920 images), validation (640 images), and testing set (640 images) - PNG Files)
+2. 46 different diseases
+https://ieee-dataport.org/open-access/retinal-fundus-multi-disease-image-dataset-rfmid
+
+
+SMDD-19
+1. 19,000 Total Images
+https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
